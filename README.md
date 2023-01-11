@@ -155,9 +155,8 @@ To run tests, run the following command:
   rspec
 ```
 <!-- AUTHORS -->
-## Live Demo
-
-[Click me]()
+## React-Front-End-App Repo
+https://github.com/diegoh40/hello-rails-react-frontend.git
 
 ## 👥 Authors <a name="authors"></a>
 
