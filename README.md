@@ -39,7 +39,7 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 
 ### <a name="tech-stack">
-Ruby on Rails
+Ruby on Rails.
 </a>
 
 
